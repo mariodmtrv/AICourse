@@ -21,7 +21,7 @@ Problems solved and projects done as part of my AI course
 	<p>Travelling salesperson problem</p>
 </li>
 <li>
-	Alpha Beta cut
+	Alpha Beta pruning
 	<p>Tic tac toe with a human player</p>
 </li>
 </ul>
