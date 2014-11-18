@@ -10,7 +10,7 @@ Problems solved and projects done as part of my AI course
 </li>
 <li>
 	A star
-	<p>A bord 3X3 with one emty cell, order the number with minimum moves</p>
+	<p>A board 3X3 with one emty cell, order the number, according to a pattern with minimum moves</p>
 </li>
 <li>
 	Min conflicts
@@ -18,11 +18,11 @@ Problems solved and projects done as part of my AI course
 </li>
 <li>
 	Genetical algorithm
-	<p>Travelling salesperson</p>
+	<p>Travelling salesperson problem</p>
 </li>
 <li>
 	Alpha Beta cut
-	<p>Sea chess with a human player</p>
+	<p>Tic tac toe with a human player</p>
 </li>
 </ul>
 
