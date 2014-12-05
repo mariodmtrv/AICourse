@@ -24,6 +24,14 @@ Problems solved and projects done as part of my AI course
 	Alpha Beta cut
 	<p>Sea chess with a human player</p>
 </li>
+<li>
+	kNN Classification
+	<p>Given a set of classified examples tries to classify new ones by selecting k closest to the new one and applying a voting procedure</p>
+</li>
+<li>
+	Naive Bayes Classification
+	<p>Given a set of classified examples tries to classify new ones by applying the Bayes formula</p>
+</li>
 </ul>
 
 <p>
